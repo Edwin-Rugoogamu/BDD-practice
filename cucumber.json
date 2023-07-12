@@ -1,0 +1,10 @@
+{
+    "default": {
+      "paths": ["features/calculator.feature"],
+      "require": ["features/support/features.js"],
+      "format": ["html:cucumber_report.html"],
+      "publish":true
+    }
+   
+  }
+   
